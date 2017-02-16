@@ -1,0 +1,224 @@
+body{
+  background: #eee;
+}
+.navbar {   
+    background: #4b6b84;
+    position: relative;
+    margin-bottom: 0px;
+    border: 0px solid transparent;
+}
+.navbar-header{
+  background: #FF5A00;
+  color: #fff;
+}
+.navbar-right {
+    float: right !important;
+    margin-right: 0px;
+}
+.navbar-default .navbar-nav > li > a {
+    color: #f9f9f9;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color: #fff;
+    background-color: #678ba7;
+}
+.col-xs-1, .col-sm-1, .col-md-1, .col-lg-1, .col-xs-2, .col-sm-2, .col-md-2, .col-lg-2, .col-xs-3, .col-sm-3, .col-md-3, .col-lg-3, .col-xs-4, .col-sm-4, .col-md-4, .col-lg-4, .col-xs-5, .col-sm-5, .col-md-5, .col-lg-5, .col-xs-6, .col-sm-6, .col-md-6, .col-lg-6, .col-xs-7, .col-sm-7, .col-md-7, .col-lg-7, .col-xs-8, .col-sm-8, .col-md-8, .col-lg-8, .col-xs-9, .col-sm-9, .col-md-9, .col-lg-9, .col-xs-10, .col-sm-10, .col-md-10, .col-lg-10, .col-xs-11, .col-sm-11, .col-md-11, .col-lg-11, .col-xs-12, .col-sm-12, .col-md-12, .col-lg-12 {
+     padding-right: 0px;
+     padding-left: 0px; 
+}
+
+
+.navbar-default .navbar-brand {
+    color: #f9f9f9;
+    font-size: 29px;
+    font-weight: 900;
+}
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+    color: #c7c6c2;
+    background-color: #929da7;
+}
+
+.one{
+  position: relative;
+}
+.bg-section{
+  background-image: url("../images/top-bg.jpg");
+  height: 100vh;
+  text-align: center;
+  color: #eee;
+}
+.bg-section h1{
+    color: #fff;
+    font-size: 42px;
+    font-weight: 600;
+}
+
+.bg-section p{
+
+      color: #848181;
+}
+.slider-text{
+     position: absolute;
+    top: 30%;
+    left: 17%;
+    transform: translate(0%,80%);
+    -webkit-transform: translate(0%,80%);
+    -moz-transform: translate(0%,80%);
+  }
+.second-part{
+    padding-top: 60px;
+}
+.white{
+  background: #fff;
+}
+.padding{
+  padding-bottom: 60px;
+}
+.second-part-left{
+   padding-left: 15px;
+}
+.second-part-left h2{
+   color: #FF5A00;
+   padding-right: 50px;
+}
+.second-part-left span{
+    background: #FF5A00;
+    color: #fff;
+}
+.second-part-right h2{
+   color: #181883;
+   margin-bottom: -10px;
+}
+.second-part-right p{
+    padding-top: 15px;
+    color: #9e9494;
+}
+.second-part-right b{
+  font-size: 25px;
+}
+.second-part-right a{
+  color: #FF5A00;
+}
+
+.third-written-part{
+ text-align: center;
+}
+.third-written-part h2{
+    color: #FF5A00;
+    padding-top: 15px;
+}
+.third-written-part p{
+    padding: 15px 295px;
+    color: #6b5e5e;
+}
+.geometry-part{
+}
+
+.geometry-part img{
+    padding: 23px;
+    padding-left: 26px;
+}
+.geometry-part h3{
+
+}
+.geometry-part p{
+    color: #968181;
+    padding-bottom: 25px
+ } 
+ .geometry-part button{
+    margin-bottom: 25px;
+    text-align: center;
+    padding: 9px 38px;
+    color: #fff;
+    background: #1e1e48;
+    font-size: 15px;
+
+ }
+.carousel-inner > .active, .carousel-inner > .next, .carousel-inner > .prev {
+    
+    height: 20vh;
+}
+.carousel .img-responsive, .thumbnail > img, .thumbnail a > img, .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    height: 110px;
+   }
+ .contant-part{
+    height: 100vh;
+    background: #FF5A00;
+    text-align: center;
+    padding-left: 20px;
+ }
+ .contant-part h3{
+    color: #fff;
+    padding-top: 110px;
+    font-size: 25px;
+    font-weight: 600;
+  
+  }
+ .contant-part p{
+    text-align: left;
+    padding: 10px;
+    color: #e4dfdf
+ }
+ .contant-part img{
+      max-height: 100vh;
+  
+ }
+ .contant-padding{
+      padding:100px;
+ }
+ .btn { 
+    padding: 8px 19px;
+    font-size: 15px;
+    border-radius: 0px;
+}
+.background{
+
+  background: #1d3548;
+}
+.upper-footer{
+  
+
+}
+.upper-footer b, strong {
+    font-weight: bold;
+    float: left;
+    padding-right: 10px;
+}
+.upper-footer h3{
+    color: #fff;
+    font-weight: 600;
+    padding: 10px;
+}
+.upper-footer sup{}
+.upper-footer span{
+     color: #545494;
+}
+.upper-footer p{
+      color: #fff;
+}
+.upper-footer u{
+      float: left;
+      text-decoration: none;
+}
+.back{
+  background-color: #03084C;
+}
+.last{
+
+}
+hr {
+     margin-top: 0px; 
+     margin-bottom: 0px; 
+     border: 0;
+     margin: 1px;
+     border-top: 0px; 
+}
+.last p{
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    padding: 25px;
+}
+.last i{
+
+}
